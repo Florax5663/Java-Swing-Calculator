@@ -22,7 +22,7 @@ A robust, desktop-based calculator built entirely in pure Java. Instead of relyi
 ### Execution via Terminal/Command Prompt
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Florax5663/Java-Swing-Calculator.git](https://github.com/Florax5663/Java-Swing-Calculator.git)
+   git clone https://github.com/Florax5663/Java-Swing-Calculator.git
 
 2. Navigate into the project directory:
    ```bash
@@ -41,4 +41,4 @@ A robust, desktop-based calculator built entirely in pure Java. Instead of relyi
 
 ## 👨‍💻 Author
 
-Piuse Samanta Chaitanya Bharathi Institute of Technology
+**Piuse Samanta** Chaitanya Bharathi Institute of Technology
